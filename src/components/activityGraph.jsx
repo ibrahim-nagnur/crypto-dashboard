@@ -11,7 +11,7 @@ export const ActivityGraph = () => {
             <div className="mb-4">
                 <img
                     className=""
-                    src="/img/Y8gb9BnT_4x.jpg"
+                    src="img/Y8gb9BnT_4x.jpg"
                     alt=""
                     width="100%"
                 />

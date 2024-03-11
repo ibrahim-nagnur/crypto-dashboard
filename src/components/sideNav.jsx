@@ -7,7 +7,7 @@ export const SideNav = () => {
                 className="nav-side-links"
             >
                 <li id="navSideToggle" className="nav-propic nav-side-item">
-                    <img src="/img/nav-propic.png" alt="" width="40px" />
+                    <img src="img/nav-propic.png" alt="" width="40px" />
                     <a
                         style={{ marginTop: "-32px", marginLeft: 170 }}
                         className="nav-link p-0 cross"

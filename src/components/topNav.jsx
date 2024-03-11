@@ -3,7 +3,7 @@ export const TopNav = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light">
             <a className="navbar-brand" href="#">
-                <img src="/img/propic1.png" alt="" width={40} />
+                <img src="img/propic1.png" alt="" width={40} />
                 <span className="greetingtext">Good Morning Shakir!</span>
             </a>
             <button

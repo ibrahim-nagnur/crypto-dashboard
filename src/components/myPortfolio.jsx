@@ -93,7 +93,7 @@ export const MyPortfolio = () => {
                             </div>
                         </div>
                         <div>
-                            <img src="/img/bitcoingraph.jpg" alt="" width="90%" />
+                            <img src="img/bitcoingraph.jpg" alt="" width="90%" />
                         </div>
                         <div className="d-flex justify-content-between">
                             <p className="bigtext">$20,788</p>
@@ -119,7 +119,7 @@ export const MyPortfolio = () => {
                             </div>
                         </div>
                         <div>
-                            <img src="/img/bitcoingraph2.jpg" alt="" width="90%" />
+                            <img src="img/bitcoingraph2.jpg" alt="" width="90%" />
                         </div>
                         <div className="d-flex justify-content-between">
                             <p className="bigtext">$21,788</p>
@@ -150,7 +150,7 @@ export const MyPortfolio = () => {
                         >
                             Binance
                         </span>
-                        <img src="/img/bit.jpg" alt="" width="50px" />
+                        <img src="img/bit.jpg" alt="" width="50px" />
                         <p className="bigtext">$18,788.00</p>
                     </div>
                     <div className="d-flex mb-3">
@@ -172,7 +172,7 @@ export const MyPortfolio = () => {
                         >
                             LiteCoin
                         </span>
-                        <img src="/img/bit 2.jpg" alt="" width="50px" />
+                        <img src="img/bit 2.jpg" alt="" width="50px" />
                         <p className="bigtext">$11,788.00</p>
                     </div>
                     <div className="d-flex mb-3">
@@ -194,7 +194,7 @@ export const MyPortfolio = () => {
                         >
                             Ethereum
                         </span>
-                        <img src="/img/bit 2 copy.jpg" alt="" width="50px" />
+                        <img src="img/bit 2 copy.jpg" alt="" width="50px" />
                         <p className="bigtext">$21,788.00</p>
                     </div>
                     <div className="d-flex mb-3">
@@ -216,7 +216,7 @@ export const MyPortfolio = () => {
                         >
                             Bitcoin
                         </span>
-                        <img src="/img/bit 4copy.jpg" alt="" width="50px" />
+                        <img src="img/bit 4copy.jpg" alt="" width="50px" />
                         <p className="bigtext">$20,788.00</p>
                     </div>
                 </div>
