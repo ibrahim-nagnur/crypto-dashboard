@@ -1,3 +1,5 @@
+## [Live Demo](https://ibrahim-nagnur.github.io/crypto-dashboard/#)
+
 ## Crypto Dashboard
 
 Welcome to Crypto Dashboard, a sleek and responsive front-end dashboard built with React and Bootstrap. This project provides a dummy interface, presenting it in an elegant and user-friendly manner.
