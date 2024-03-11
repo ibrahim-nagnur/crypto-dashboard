@@ -1,8 +1,23 @@
-# React + Vite
+## Crypto Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Crypto Dashboard, a sleek and responsive front-end dashboard built with React and Bootstrap. This project provides a dummy interface, presenting it in an elegant and user-friendly manner.
 
-Currently, two official plugins are available:
+### Features:
+- Responsive design ensures optimal viewing experience on all screen sizes.
+- Intuitive user interface for seamless navigation.
+- Built with React and Bootstrap for modern development practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Technologies Used:
+- React
+- Bootstrap
+- JavaScript
+- HTML
+- CSS
+
+### Installation:
+1. Clone the repository: `git clone https://github.com/your-username/crypto-dashboard.git`
+2. Navigate to the project directory: `cd crypto-dashboard`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+
+Feel free to contribute to the project by submitting pull requests or reporting any issues you encounter. Happy coding!
